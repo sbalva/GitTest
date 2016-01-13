@@ -44,7 +44,10 @@ namespace WpfApplication1
 
         private void button5_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("Хуй3");
+            MessageBox.Show("Хуй3");
+            MessageBox.Show("Хуй3");
+            MessageBox.Show("Хуй3");
         }
 
         private void button3_Click(object sender, RoutedEventArgs e)
