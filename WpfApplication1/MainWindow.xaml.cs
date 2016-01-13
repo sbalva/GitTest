@@ -59,7 +59,7 @@ namespace WpfApplication1
 
         private void button6_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Жопа 2");
+            MessageBox.Show("Жопа 2356");
         }
     }
 }
