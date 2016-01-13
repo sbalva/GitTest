@@ -27,9 +27,14 @@ namespace WpfApplication1
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Ху 2");
-            MessageBox.Show("Хуй2");
-            MessageBox.Show("Хуй3");
-            MessageBox.Show("Хуй4");
+            MessageBox.Show("Х уй2");
+            MessageBox.Show("Х уй3 ");
+            MessageBox.Show("Х у й 4");
+        }
+
+        private void button5_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
