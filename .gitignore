@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dll
+WpfApplication1/obj/x86/Debug/WpfApplication1.csproj.GenerateResource.Cache
+*.cache
+*.suo
+WpfApplication1/bin/Debug/WpfApplication1.vshost.exe
+*.pdb
+WpfApplication1/obj/x86/Debug/App.g.cs
+WpfApplication1/obj/x86/Debug/MainWindow.g.i.cs
+*.exe
+WpfApplication1/obj/x86/Debug/WpfApplication1.Properties.Resources.resources
+*.baml
+WpfApplication1/obj/x86/Debug/App.g.i.cs
