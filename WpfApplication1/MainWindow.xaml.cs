@@ -64,5 +64,10 @@ namespace WpfApplication1
         {
             MessageBox.Show("Жопа 2356");
         }
+
+        private void button7_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Анус 1");
+        }
     }
 }
