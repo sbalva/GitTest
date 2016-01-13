@@ -30,6 +30,16 @@ namespace WpfApplication1
             MessageBox.Show("Х уй2");
             MessageBox.Show("Х уй3 ");
             MessageBox.Show("Х у й 4");
+
+            MessageBox.Show("Ху 21");
+            MessageBox.Show("Хуй22");
+            MessageBox.Show("Хуй33");
+            MessageBox.Show("Хуй44");
+
+            MessageBox.Show("Ху 25");
+            MessageBox.Show("Хуй26");
+            MessageBox.Show("Хуй37");
+            MessageBox.Show("Хуй48");
         }
 
         private void button5_Click(object sender, RoutedEventArgs e)
