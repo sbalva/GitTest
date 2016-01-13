@@ -46,5 +46,10 @@ namespace WpfApplication1
         {
 
         }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Хуй3");
+        }
     }
 }
