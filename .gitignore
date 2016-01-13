@@ -53,3 +53,5 @@ Temporary Items
 WpfApplication1/obj/x86/Debug/*.*
 WpfApplication1/obj/x86/Release/*.*
 *.baml
+WpfApplication1/bin/Release/*.*
+WpfApplication1/bin/Debug/*.*
