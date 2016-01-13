@@ -56,5 +56,10 @@ namespace WpfApplication1
         {
             MessageBox.Show("Писька");
         }
+
+        private void button6_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Хуй6");
+        }
     }
 }
