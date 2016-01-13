@@ -56,5 +56,10 @@ namespace WpfApplication1
         {
             MessageBox.Show("Писька");
         }
+
+        private void button4_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Жопа");
+        }
     }
 }
