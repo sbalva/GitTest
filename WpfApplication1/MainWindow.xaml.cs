@@ -30,6 +30,16 @@ namespace WpfApplication1
             MessageBox.Show("Хуй2");
             MessageBox.Show("Хуй3");
             MessageBox.Show("Хуй4");
+
+            MessageBox.Show("Ху 21");
+            MessageBox.Show("Хуй22");
+            MessageBox.Show("Хуй33");
+            MessageBox.Show("Хуй44");
+
+            MessageBox.Show("Ху 25");
+            MessageBox.Show("Хуй26");
+            MessageBox.Show("Хуй37");
+            MessageBox.Show("Хуй48");
         }
     }
 }
