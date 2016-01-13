@@ -67,7 +67,7 @@ namespace WpfApplication1
 
         private void button8_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Хуй8");
+            MessageBox.Show("Хуй8_adfsdfsdf");
         }
 
         private void button7_Click(object sender, RoutedEventArgs e)
